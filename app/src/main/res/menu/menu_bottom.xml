@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    app:cnb_unselectedColor="#000"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/one"
+        android:icon="@drawable/ic_khoahoc"
+        android:title="Course"
+        app:cnb_backgroundColor="#FF8A65"
+        app:cnb_iconColor="@color/chipBarText"
+        app:cnb_textColor="@color/chipBarText" />
+    <item
+        android:id="@+id/two"
+        android:icon="@drawable/ic_news"
+        android:title="News"
+        app:cnb_backgroundColor="#FF8A65"
+        app:cnb_iconColor="@color/chipBarText"
+        app:cnb_textColor="@color/chipBarText" />
+    <item
+        android:id="@+id/three"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        app:cnb_backgroundColor="#FF8A65"
+        app:cnb_iconColor="@color/chipBarText"
+        app:cnb_textColor="@color/chipBarText" />
+    <item
+        android:id="@+id/four"
+        android:icon="@drawable/ic_map"
+        android:title="Maps"
+        app:cnb_backgroundColor="#FF8A65"
+        app:cnb_iconColor="@color/chipBarText"
+        app:cnb_textColor="@color/chipBarText" />
+    <item
+        android:id="@+id/five"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"
+        app:cnb_backgroundColor="#FF8A65"
+        app:cnb_iconColor="@color/chipBarText"
+        app:cnb_textColor="@color/chipBarText" />
+
+</menu>
